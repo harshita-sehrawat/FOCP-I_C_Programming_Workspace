@@ -47,14 +47,6 @@ C programs written during Semester 1 of B.Tech CSE.
 | `employee_salarycal.c` | Employee salary calculator |
 | `marks_calculator.c` | Marks calculator |
 
-## How to Run
-```bash
-gcc filename.c -o filename
-./filename
-```
-On Windows, run `filename.exe` instead of `./filename`.
 
-## Tools Used
-- C (GCC compiler)
 - Visual Studio Code
 - Git and GitHub
