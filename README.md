@@ -8,6 +8,4 @@ C programs written during Semester 1 of B.Tech CSE.
 - Loops (for, while, do-while)
 - Simple programs: Calculators, BMI, Simple Interest Calculator, Employee Salary Calculator 
 
-## Author
-Harshita Sehrawat
-26CSU233
+
