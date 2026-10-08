@@ -48,5 +48,3 @@ C programs written during Semester 1 of B.Tech CSE.
 | `marks_calculator.c` | Marks calculator |
 
 
-- Visual Studio Code
-- Git and GitHub
