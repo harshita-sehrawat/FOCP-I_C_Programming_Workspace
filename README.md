@@ -1,12 +1,12 @@
 # FOCP-I C Programming Workspace
 
-C programs written during Semester 1 of B.Tech CSE (AI/ML).
+C programs written during Semester 1 of B.Tech CSE.
 
 ## Topics covered
 - Input/output (printf, scanf)
 - Conditionals (if-else)
 - Loops (for, while, do-while)
-- Simple programs: calculators, BMI, simple interest
+- Simple programs: Calculators, BMI, Simple Interest Calculator, Employee Salary Calculator 
 
 ## Author
 Harshita Sehrawat
