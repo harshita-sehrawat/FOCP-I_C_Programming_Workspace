@@ -50,7 +50,7 @@ C programs written during Semester 1 of B.Tech CSE.
 | `factorial.c` | Factorial using recursion |
 | `perfect_number.c` | Perfect number check using a function |
 
-### Arrays
+### Arrays (1D)
 | File | Description |
 |------|-------------|
 | `array_garbage.c` | Uninitialised array shows garbage values |
