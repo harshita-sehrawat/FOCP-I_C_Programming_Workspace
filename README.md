@@ -7,7 +7,7 @@ C programs written during Semester 1 of B.Tech CSE.
 - Conditional statements (`if-else`)
 - Loops (`for`, `while`, `do-while`), `break` and nested loops (patterns)
 - Functions and recursion
-- Arrays (1D)
+- Arrays (1D and 2D)
 - Strings
 - Pointers
 - Basic calculators and real-life programs
@@ -60,6 +60,12 @@ C programs written during Semester 1 of B.Tech CSE.
 | `array_max.c` | Finding the maximum marks in an array |
 | `array_float_marks.c` | Reading and printing float marks |
 | `attendance_array_input.c` | Reading and printing attendance values |
+
+### Arrays (2D)
+| File | Description |
+|------|-------------|
+| `2d_array.c` | Reading a 5x3 array, printing it with the sum of each row |
+| `2darray2.c` | Traversing a 2D array column-wise and printing diagonal elements |
 
 ### Strings
 | File | Description |
